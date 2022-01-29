@@ -16,4 +16,4 @@ const harith = {
 
 ---
 
-⭐️ From [@Harith](https://github.com/hakareem
+⭐️ From [@Harith]
