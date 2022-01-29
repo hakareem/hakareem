@@ -1,4 +1,4 @@
-<h2> Hi, I'm Harith A Kareem! <img src="https://vsgif.com/gif/3167288" width="50"></h2>
+<h2> Hi, I'm Harith A Kareem! <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2FDtf&psig=AOvVaw14_vzgQ88NZKfBlV4Jqp1m&ust=1643543630736000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPCe9KXz1vUCFQAAAAAdAAAAABAP" width="50"></h2>
 <p><em>Aspiring Software Enginner <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 
 
