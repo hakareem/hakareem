@@ -1,4 +1,4 @@
-<h2> Hi, I'm Harith A Kareem!</h2>
+<h2> Hello , I'm Harith!</h2>
 <p><em>Aspiring Software Enginner <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 
 
