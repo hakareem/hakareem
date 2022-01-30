@@ -8,8 +8,8 @@
 const harith = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS],
- focus: "I am doing challenges focused on javascript and typescript"
-  hobbies: [Football, Photography, Gaming, Coding]
+ focus: "I am doing challenges focused on javascript and typescript",
+  hobbies: [Football, Photography, Gaming, Coding],
 }
 ```
 
