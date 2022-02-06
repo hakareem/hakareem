@@ -10,7 +10,7 @@ const harith = {
   code: [Javascript, Typescript, HTML, CSS/Sass],
  focus: "I am doing algorithm challenges using javascript",
   hobbies: [Football, Photography, Gaming, Coding],
-  learning: <h6>React</h6>
+  learning: <React>
 }
 ```
 
