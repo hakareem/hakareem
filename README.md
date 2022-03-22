@@ -9,7 +9,7 @@
 const harith = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS/Sass, React.js],
- focus: "I am doing coding challenges using javascript",
+ focus: "I am doing data structures & algorithms",
   hobbies: [Football, Photography, Gaming, Coding],
   learning: < MongoDB, Node.js, Express.js/>
 }
