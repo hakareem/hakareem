@@ -8,10 +8,10 @@
 ```javascript
 const harith = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS/Sass],
+  code: [Javascript, Typescript, HTML, CSS/Sass, React.js],
  focus: "I am doing coding challenges using javascript",
   hobbies: [Football, Photography, Gaming, Coding],
-  learning: <React.js />
+  learning: < MongoDB, Node.js, Express.js/>
 }
 ```
 
