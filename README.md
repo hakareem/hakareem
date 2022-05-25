@@ -1,30 +1,16 @@
-<h2> Hello , I'm Harith!</h2>
-<p><em>Software Engineer<br>
-<!--   Coding Bootcamp Graduate <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br> -->
+<img src="https://github.com/fn-r/portfolio/blob/main/images/profile/profile-github.jpeg" width="100%" alt="fn-r" />
 
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=HammerSmith+One&color=A5FFCE&center=true&vCenter=true&lines=Software+Engineer;Programmer;Developer;Coder"
+        alt="fn-r" />
+</p>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-```javascript
-const harith = {
-  pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS/Sass, React.js],
- focus: "I am doing data structures & algorithms",
-  hobbies: [Football, Photography, Gaming, Coding],
-  learning: < MongoDB, Node.js, Express.js/>
-}
-```
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so feel free to reach out!
-
----
-
-⭐️ From [@Harith]
-
-  <h3 align="center">Hi 👋🏽, I'm a detail-oriented software engineer with a deep interest in IoT.</h3>
+<h3 align="center">Hi 👋🏽, I'm a software engineer.</h3>
 
 <h3 align="center">Enjoy learning and experimenting with latest technologies. Always automate repetitive workflow and
     priorities more on code readability.</h3>
 
-
-   
+<div valign="center" align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=fn-r&theme=dark&hide_border=true&background=0d1117&date_format=M%20j%5B%2C%20Y%5D&ring=A5FFCE&fire=00C7BD&sideLabels=FAFFD1&stroke=00C7BD&currStreakLabel=FAFFD1"
+        alt="fn-r" />
+</div>
