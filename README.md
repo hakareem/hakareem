@@ -16,7 +16,7 @@
 </div>
 <h1 align="center" style="color:#A5FFCE">🔥 GitHub Stats</h1>
 <p align="center">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs?username=hakareem&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&title_color=A5FFCE&langs_count=8&card_width=400&locale=en&layout=compact" alt="hakareem" />
+  <img height="170px" width="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=hakareem&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&title_color=A5FFCE&langs_count=8&card_width=400&locale=en&layout=compact" alt="hakareem" />
   <img height="170px" src="https://github-readme-stats.vercel.app/api?username=hakareem&show_icons=true&locale=en&bg_color=0d1117&hide_border=true&title_color=A5FFCE&text_color=FAFFD1&icon_color=00C7BD" alt="hakareem" />
 </p>
 <p align="center">
