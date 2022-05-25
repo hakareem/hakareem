@@ -5,7 +5,7 @@
         alt="fn-r" />
 </p>
 
-<h3 align="center">Hi 👋🏽, I’m a Software Engineer with a special interest in Technology. Tech fascinates me and I love connecting with people who share my passion for software development.</h3>
+<h3 align="center">Hi 👋🏽, I’m a Software Engineer with a special interest in Technology.</h3>
 
 <h3 align="center">Enjoy learning and experimenting with latest technologies. Always automate repetitive workflow and
     priorities more on code readability.</h3>
