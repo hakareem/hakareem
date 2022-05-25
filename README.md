@@ -1,4 +1,4 @@
-<img src="https://github.com/fn-r/portfolio/blob/main/images/profile/profile-github.jpeg" width="100%" alt="fn-r" />
+<img src="https://github.com/hakareem/portfolio/blob/master/interfacePics/TVCapture.PNG" width="100%" alt="fn-r" />
 
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=HammerSmith+One&color=A5FFCE&center=true&vCenter=true&lines=Software+Engineer;Programmer;Developer;Coder"
