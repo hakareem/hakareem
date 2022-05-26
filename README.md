@@ -1,7 +1,7 @@
 <img src="https://github.com/hakareem/perpp/blob/master/interfacePics/board.PNG" width="100%" alt="hakareem" />
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=HammerSmith+One&color=A5FFCE&center=true&vCenter=true&lines=Software+Engineer;Programmer;Developer;Coder"
+    <img src="https://readme-typing-svg.herokuapp.com?font=HammerSmith+One&color=A5FFCE&center=true&vCenter=true&lines=Software+Engineer;Programmer;Developer"
         alt="hakareem" />
 </p> 
 
