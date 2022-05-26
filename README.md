@@ -11,7 +11,7 @@
     priorities more on code readability.</h3>
 
 <div valign="center" align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=hakareem&theme=dark&hide_border=true&background=0d1117&date_format=M%20j%5B%2C%20Y%5D&ring=A5FFCE&fire=00C7BD&sideLabels=FAFFD1&stroke=00C7BD&currStreakLabel=FAFFD1"
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=hakareem&theme=dark&hide_border=true&background=0d1117&date_format=M%20j%5B%2C%20Y%5D&ring=A5FFCE&fire=00C7BD&sideLabels=FAFFD1&stroke=00C7BD&currStreakLabel=FAFFD1" 
         alt="hakareem" />
 </div>
 <h1 align="center" style="color:#A5FFCE"> ⭐ GitHub Stats</h1>
