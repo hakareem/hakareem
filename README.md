@@ -2,7 +2,7 @@
 
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=HammerSmith+One&color=A5FFCE&center=true&vCenter=true&lines=Software+Engineer;Programmer;Developer;Coder"
-        alt="fn-r" />
+        alt="hakareem" />
 </p> 
 
 <h3 align="center">Hi 👋🏽, I’m a Software Engineer with a special interest in Technology.</h3>
