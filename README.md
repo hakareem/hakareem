@@ -17,7 +17,9 @@
 </div>
 <h1 align="center" style="color:#534ead"> ⭐ Web Projects</h1>
 ![renge](https://user-images.githubusercontent.com/93913130/171044125-e74a5e01-fb83-4f97-8775-2224d2aa00ab.gif)
+<br>
 ![forecast](https://user-images.githubusercontent.com/93913130/171044131-3425bd3d-b169-4569-913b-2f39ebf38d22.gif)
+<br>
 ![books](https://user-images.githubusercontent.com/93913130/171044137-77a06622-580c-408e-b9ba-7a05b7fc0e5d.gif)
 
 <h1 align="center" style="color:#534ead"> ⭐ GitHub Stats</h1>
