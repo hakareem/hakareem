@@ -15,6 +15,11 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=hakareem&theme=dark&hide_border=true&background=0d1117&date_format=M%20j%5B%2C%20Y%5D&ring=A5FFCE&fire=00C7BD&sideLabels=FAFFD1&stroke=00C7BD&currStreakLabel=FAFFD1" 
         alt="hakareem" />
 </div>
+<h1 align="center" style="color:#534ead"> ⭐ Web Projects</h1>
+![renge](https://user-images.githubusercontent.com/93913130/171044125-e74a5e01-fb83-4f97-8775-2224d2aa00ab.gif)
+![forecast](https://user-images.githubusercontent.com/93913130/171044131-3425bd3d-b169-4569-913b-2f39ebf38d22.gif)
+![books](https://user-images.githubusercontent.com/93913130/171044137-77a06622-580c-408e-b9ba-7a05b7fc0e5d.gif)
+
 <h1 align="center" style="color:#534ead"> ⭐ GitHub Stats</h1>
 <p align="center">
   <img height="170px" width="390px" src="https://github-readme-stats.vercel.app/api/top-langs?username=hakareem&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&title_color=A5FFCE&langs_count=8&card_width=400&locale=en&layout=compact" alt="hakareem" />
