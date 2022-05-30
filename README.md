@@ -1,6 +1,5 @@
-<!-- <img src="https://github.com/hakareem/perpp/blob/master/interfacePics/board.PNG" width="100%" alt="hakareem" /> -->
+<img src="https://github.com/hakareem/perpp/blob/master/interfacePics/board.PNG" width="100%" alt="hakareem" />
 <!-- ![coding](https://user-images![bureau-gif](https://user-images.githubusercontent.com/93913130/171042663-0af1dd17-59f1-46a7-89f3-72eeb8f94257.gif) -->
-![HoarseMaleAustralianfurseal-max-1mb](https://user-images.githubusercontent.com/93913130/171042845-6d52886c-d606-40cf-8d12-510ed23d5812.gif)
 
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=HammerSmith+One&color=A5FFCE&center=true&vCenter=true&lines=Software+Engineer;Programmer;Developer"
