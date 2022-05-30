@@ -1,4 +1,5 @@
-<img src="https://github.com/hakareem/perpp/blob/master/interfacePics/board.PNG" width="100%" alt="hakareem" />
+<!-- <img src="https://github.com/hakareem/perpp/blob/master/interfacePics/board.PNG" width="100%" alt="hakareem" /> -->
+![coding](https://user-images.githubusercontent.com/93913130/171042320-95a59962-287c-4ba4-9af5-0c2db11c96a3.gif)
 
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=HammerSmith+One&color=A5FFCE&center=true&vCenter=true&lines=Software+Engineer;Programmer;Developer"
