@@ -38,7 +38,7 @@
                             alt="live" />
                         </a>
                     </div>
-                    <p align="justify"><strong>HTML5, CSS3 & JavaScript & Typescript & Node.js</strong> - Online multiplayer game.</p>
+                    <p align="justify"><strong>HTML5, CSS3, Typescript & Node.js</strong> - Online multiplayer game.</p>
                 </div>
             </td>
             <td width="50%" valign="top">
@@ -58,7 +58,7 @@
                             alt="live" />
                         </a>
                     </div>
-                    <p align="justify"><strong>HTML5, CSS3 & JavaScript & Typescript</strong> - Mass & Spring Simulation Game.</p>
+                    <p align="justify"><strong>HTML5, CSS3, JavaScript & Typescript</strong> - Mass & Spring Simulation Game.</p>
                 </div>
             </td>
         </tr>
