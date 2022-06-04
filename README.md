@@ -130,7 +130,7 @@
                 <h3 align="center">NASA APOD</h3>
                 <div align="center">
                     <a target="_blank" href="https://hakareem.github.io/NASA-APOD/">
-                        <img src="https://github.com/hakareem/perpp/blob/master/gifs/books.gif" width="100%"
+                        <img src="https://github.com/hakareem/perpp/blob/master/gifs/nasa.gif" width="100%"
                             alt="nasa APOD" />
                     </a>
                     <div align="center">
