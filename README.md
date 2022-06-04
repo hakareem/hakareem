@@ -80,7 +80,7 @@
                             alt="live" />
                         </a>
                     </div>
-                    <p align="justify"><strong>HTML5, CSS3 & JavaScript</strong> - Get your souvenir from the star!
+                    <p align="justify"><strong>React.js</strong> - Weather API!
                     </p>
                 </div>
             </td>
