@@ -15,12 +15,141 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=hakareem&theme=dark&hide_border=true&background=0d1117&date_format=M%20j%5B%2C%20Y%5D&ring=A5FFCE&fire=00C7BD&sideLabels=FAFFD1&stroke=00C7BD&currStreakLabel=FAFFD1" 
         alt="hakareem" />
 </div>
-<!-- <h1 align="center" style="color:#534ead"> ⭐ Web Projects</h1>
-![renge](https://user-images.githubusercontent.com/93913130/171044125-e74a5e01-fb83-4f97-8775-2224d2aa00ab.gif)
-<br>
-![forecast](https://user-images.githubusercontent.com/93913130/171044131-3425bd3d-b169-4569-913b-2f39ebf38d22.gif)
-<br>
-![books](https://user-images.githubusercontent.com/93913130/171044137-77a06622-580c-408e-b9ba-7a05b7fc0e5d.gif) -->
+
+
+<h1 align="center" style="color:#A5FFCE">🌐 Web Projects</h1>
+<table bordercolor="#21262d" width="100%">
+    <tbody>
+        <tr>
+            <td width="50%" valign="top">
+                <h3 align="center">Snowballz</h3>
+                <div align="center">
+                    <a target="_blank" href="https://snowballz.org/">
+                        <img src="https://github.com/hakareem/perpp/blob/master/gifs/snowball.gif" width="100%"
+                            alt="snowball" />
+                    </a>
+                    <div align="center">
+                        <a target="_blank" href="https://github.com/hakareem/snowballz">
+                            <img src="https://custom-icon-badges.herokuapp.com/badge/-repo-A5FFCE?style=for-the-badge&logo=github&logoColor=A5FFCE&labelColor=000000"
+                            alt="repo" />
+                        </a>
+                        <a target="_blank" href="https://snowballz.org/">
+                            <img src="https://custom-icon-badges.herokuapp.com/badge/-live-00C7BD?style=for-the-badge&logo=globe&logoColor=00C7BD&labelColor=FFFFFF"
+                            alt="live" />
+                        </a>
+                    </div>
+                    <p align="justify"><strong>HTML5, CSS3 & JavaScript & Typescript & Node.js</strong> - Online multiplayer game.</p>
+                </div>
+            </td>
+            <td width="50%" valign="top">
+                <h3 align="center">Renge</h3>
+                <div align="center">
+                    <a target="_blank" href="http://renge.snowballz.org/">
+                        <img src="https://github.com/hakareem/perpp/blob/master/gifs/renge.gif" width="100%"
+                            alt="renge" />
+                    </a>
+                    <div align="center">
+                        <a target="_blank" href="https://github.com/hakareem/Renge">
+                            <img src="https://custom-icon-badges.herokuapp.com/badge/-repo-A5FFCE?style=for-the-badge&logo=github&logoColor=A5FFCE&labelColor=000000"
+                            alt="repo" />
+                        </a>
+                        <a target="_blank" href="http://renge.snowballz.org/">
+                            <img src="https://custom-icon-badges.herokuapp.com/badge/-live-00C7BD?style=for-the-badge&logo=globe&logoColor=00C7BD&labelColor=FFFFFF"
+                            alt="live" />
+                        </a>
+                    </div>
+                    <p align="justify"><strong>HTML5, CSS3 & JavaScript & Typescript</strong> - Mass & Spring Simulation Game.</p>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td width="50%" valign="top">
+                <h3 align="center">Forecast</h3>
+                <div align="center">
+                    <a target="_blank" href="https://hakareem.github.io/forecast/">
+                        <img src="https://github.com/hakareem/perpp/blob/master/gifs/forecast.gif" width="100%"
+                            alt="forecast" />
+                    </a>
+                    <div align="center">
+                        <a target="_blank" href="https://github.com/hakareem/forecast">
+                            <img src="https://custom-icon-badges.herokuapp.com/badge/-repo-A5FFCE?style=for-the-badge&logo=github&logoColor=A5FFCE&labelColor=000000"
+                            alt="repo" />
+                        </a>
+                        <a target="_blank" href="https://hakareem.github.io/forecast/">
+                            <img src="https://custom-icon-badges.herokuapp.com/badge/-live-00C7BD?style=for-the-badge&logo=globe&logoColor=00C7BD&labelColor=FFFFFF"
+                            alt="live" />
+                        </a>
+                    </div>
+                    <p align="justify"><strong>HTML5, CSS3 & JavaScript</strong> - Get your souvenir from the star!
+                    </p>
+                </div>
+            </td>
+            <td width="50%" valign="top">
+                <h3 align="center">Book Collection</h3>
+                <div align="center">
+                    <a target="_blank" href="https://books-collections.netlify.app/">
+                        <img src="https://github.com/hakareem/perpp/blob/master/gifs/books.gif" width="100%"
+                            alt="book collection" />
+                    </a>
+                    <div align="center">
+                        <a target="_blank" href="https://github.com/hakareem/bookCollection">
+                            <img src="https://custom-icon-badges.herokuapp.com/badge/-repo-A5FFCE?style=for-the-badge&logo=github&logoColor=A5FFCE&labelColor=000000"
+                            alt="repo" />
+                        </a>
+                        <a target="_blank" href="https://books-collections.netlify.app/">
+                            <img src="https://custom-icon-badges.herokuapp.com/badge/-live-00C7BD?style=for-the-badge&logo=globe&logoColor=00C7BD&labelColor=FFFFFF"
+                            alt="live" />
+                        </a>
+                    </div>
+                    <p align="justify"><strong>MongoDB, Express.js, React.js, Node.js</strong> - Application utilising the MERN stack</p>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td width="50%" valign="top">
+                <h3 align="center">Portfolio</h3>
+                <div align="center">
+                    <a target="_blank" href="https://books-collections.netlify.app/">
+                        <img src="https://github.com/hakareem/perpp/blob/master/gifs/books.gif" width="100%"
+                            alt="portfolio" />
+                    </a>
+                    <div align="center">
+                        <a target="_blank" href="https://github.com/hakareem/perpp">
+                            <img src="https://custom-icon-badges.herokuapp.com/badge/-repo-A5FFCE?style=for-the-badge&logo=github&logoColor=A5FFCE&labelColor=000000"
+                            alt="repo" />
+                        </a>
+                        <a target="_blank" href="https://books-collections.netlify.app/">
+                            <img src="https://custom-icon-badges.herokuapp.com/badge/-live-00C7BD?style=for-the-badge&logo=globe&logoColor=00C7BD&labelColor=FFFFFF"
+                            alt="live" />
+                        </a>
+                    </div>
+                    <p align="justify"><strong>HTML5, CSS3 & JavaScript</strong> - My portfolio site including working links to my projects and how to get in touch with me.</p>
+                </div>
+            </td>
+            <td width="50%" valign="top">
+                <h3 align="center">NASA APOD</h3>
+                <div align="center">
+                    <a target="_blank" href="https://hakareem.github.io/NASA-APOD/">
+                        <img src="https://github.com/hakareem/perpp/blob/master/gifs/books.gif" width="100%"
+                            alt="nasa APOD" />
+                    </a>
+                    <div align="center">
+                        <a target="_blank" href="https://github.com/hakareem/NASA-APOD">
+                            <img src="https://custom-icon-badges.herokuapp.com/badge/-repo-A5FFCE?style=for-the-badge&logo=github&logoColor=A5FFCE&labelColor=000000"
+                            alt="repo" />
+                        </a>
+                        <a target="_blank" href="https://hakareem.github.io/NASA-APOD/">
+                            <img src="https://custom-icon-badges.herokuapp.com/badge/-live-00C7BD?style=for-the-badge&logo=globe&logoColor=00C7BD&labelColor=FFFFFF"
+                            alt="live" />
+                        </a>
+                    </div>
+                    <p align="justify"><strong>HTML5, CSS3 & JS</strong> - NASA's Astronomy Picture of the Day </p>
+                </div>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 
 <h1 align="center" style="color:#534ead"> ⭐ GitHub Stats</h1>
 <p align="center">
