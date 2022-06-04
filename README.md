@@ -107,23 +107,23 @@
         </tr>
         <tr>
             <td width="50%" valign="top">
-                <h3 align="center">Portfolio</h3>
+                <h3 align="center">Crypto Checker</h3>
                 <div align="center">
-                    <a target="_blank" href="https://books-collections.netlify.app/">
-                        <img src="https://github.com/hakareem/perpp/blob/master/gifs/books.gif" width="100%"
-                            alt="portfolio" />
+                    <a target="_blank" href="https://hakareem.github.io/crypto/">
+                        <img src="https://github.com/hakareem/perpp/blob/master/gifs/crypto.gif" width="100%"
+                            alt="crypto" />
                     </a>
                     <div align="center">
-                        <a target="_blank" href="https://github.com/hakareem/perpp">
+                        <a target="_blank" href="https://github.com/hakareem/crypto">
                             <img src="https://custom-icon-badges.herokuapp.com/badge/-repo-A5FFCE?style=for-the-badge&logo=github&logoColor=A5FFCE&labelColor=000000"
                             alt="repo" />
                         </a>
-                        <a target="_blank" href="https://books-collections.netlify.app/">
+                        <a target="_blank" href="https://hakareem.github.io/crypto/">
                             <img src="https://custom-icon-badges.herokuapp.com/badge/-live-00C7BD?style=for-the-badge&logo=globe&logoColor=00C7BD&labelColor=FFFFFF"
                             alt="live" />
                         </a>
                     </div>
-                    <p align="justify"><strong>HTML5, CSS3 & JavaScript</strong> - My portfolio site including working links to my projects and how to get in touch with me.</p>
+                    <p align="justify"><strong>React.js</strong> - Get real-time information about crypto-currencies from a third party API</p>
                 </div>
             </td>
             <td width="50%" valign="top">
