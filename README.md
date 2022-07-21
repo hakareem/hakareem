@@ -17,7 +17,7 @@
 </div>
 
 
-<h1 align="center" style="color:#A5FFCE">🌐 Web Projects</h1>
+<!-- <h1 align="center" style="color:#A5FFCE">🌐 Web Projects</h1>
 <table bordercolor="#21262d" width="100%">
     <tbody>
         <tr>
@@ -148,7 +148,7 @@
             </td>
         </tr>
     </tbody>
-</table>
+</table> -->
 
 
 <h1 align="center" style="color:#534ead"> ⭐ GitHub Stats</h1>
